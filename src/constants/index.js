@@ -42,19 +42,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Data Scraper",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Data Analyst",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Python Developer",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Quality Assurance Analyst",
     icon: creator,
   },
 ];
@@ -116,55 +116,27 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Data Analyst",
+    company_name: "Study Info Centre",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Jan 2020 - May 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Effectively compiled and extracted educational data using strategic web scraping techniques with Scrapy and Selenium.",
+      "Oversaw the management and strategic direction of the entire data department.",
+      "Mentored new team members on data collection processes and coding practices.",
+      "Collaborated with the development team to refine and optimize the user interface of the data visualization website.",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "IT and Network Supporter",
+    company_name: "Trinity International College",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "July 2019 - Jan 2020",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Troubleshooted software components regarding OS issues",
+      "Assisted lecturers with online teaching approaches.",
     ],
   },
 ];
@@ -172,28 +144,29 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
+      "It was exceptional for me to see a fresh high school graduate leading a team of data engineers with such complete dedication and commitment.",
+    name: "Binaya Poudel",
+    designation: "Project Manager",
+    company: "Study Info Centre",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
+      "I've never met someone like Rosmit who is so genuinely interested in exploring the power of data and its impact on society.",
+    name: "Ganesh Kuikel",
+    designation: "Data Analyst",
+    company: "LearnSIC",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "Rosmit is one of those standout employees i've seen in my career- exceptionally humble and a great team player with outstanding leadership skills.",
+    name: "Bijaya Poudel",
+    designation: "CEO",
+    company: "SIC",
+    image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
+
 ];
 
 const projects = [
